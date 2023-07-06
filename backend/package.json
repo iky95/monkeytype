@@ -27,7 +27,7 @@
     "firebase-admin": "11.4.1",
     "helmet": "4.6.0",
     "ioredis": "4.28.5",
-    "joi": "17.6.0",
+    "joi": "17.9.2",
     "lodash": "4.17.21",
     "lru-cache": "7.10.1",
     "mongodb": "4.4.0",
