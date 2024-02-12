@@ -30,7 +30,7 @@
     "joi": "17.6.0",
     "lodash": "4.17.21",
     "lru-cache": "7.10.1",
-    "mongodb": "4.4.0",
+    "mongodb": "6.0.0",
     "node-fetch": "2.6.7",
     "nodemon": "2.0.17",
     "object-hash": "3.0.0",
