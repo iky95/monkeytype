@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "axios": "1.6.4",
-    "canvas-confetti": "1.5.1",
+    "canvas-confetti": "1.9.2",
     "chart.js": "3.7.1",
     "chartjs-adapter-date-fns": "2.0.0",
     "chartjs-plugin-annotation": "1.4.0",
