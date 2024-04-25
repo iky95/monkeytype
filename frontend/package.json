@@ -61,7 +61,7 @@
   "dependencies": {
     "axios": "1.6.4",
     "canvas-confetti": "1.5.1",
-    "chart.js": "3.7.1",
+    "chart.js": "3.9.1",
     "chartjs-adapter-date-fns": "2.0.0",
     "chartjs-plugin-annotation": "1.4.0",
     "chartjs-plugin-trendline": "1.0.2",
