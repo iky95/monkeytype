@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "bcrypt": "5.0.1",
-    "bullmq": "1.91.1",
+    "bullmq": "5.1.2",
     "chalk": "4.1.2",
     "cors": "2.8.5",
     "cron": "2.3.0",
@@ -30,7 +30,7 @@
     "firebase-admin": "12.0.0",
     "helmet": "4.6.0",
     "ioredis": "4.28.5",
-    "joi": "17.6.0",
+    "joi": "17.7.1",
     "lodash": "4.17.21",
     "lru-cache": "7.10.1",
     "mjml": "4.15.0",
