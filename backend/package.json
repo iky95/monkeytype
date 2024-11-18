@@ -37,7 +37,7 @@
     "mongodb": "6.3.0",
     "mustache": "4.2.0",
     "node-fetch": "2.6.7",
-    "nodemailer": "6.9.9",
+    "nodemailer": "6.9.15",
     "nodemon": "3.0.1",
     "object-hash": "3.0.0",
     "path": "0.12.7",
