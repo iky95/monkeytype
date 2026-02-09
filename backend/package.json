@@ -34,7 +34,7 @@
     "lodash": "4.17.21",
     "lru-cache": "7.10.1",
     "mjml": "4.15.0",
-    "mongodb": "6.3.0",
+    "mongodb": "6.21.0",
     "mustache": "4.2.0",
     "node-fetch": "2.6.7",
     "nodemailer": "6.9.9",
